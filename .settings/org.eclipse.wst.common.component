@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
-    <wb-module deploy-name="DH_WEB">
+    <wb-module deploy-name="WebWorld">
         <wb-resource deploy-path="/" source-path="/WebRoot" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
-        <property name="java-output-path" value="/DH_WEB/build/classes"/>
-        <property name="context-root" value="DH_WEB"/>
+        <property name="java-output-path" value="/WebWorld/build/classes"/>
+        <property name="context-root" value="WebWorld"/>
     </wb-module>
 </project-modules>
